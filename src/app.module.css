@@ -1,0 +1,15 @@
+.todosContainer {
+  border: 2px solid rgba(117, 29, 239, 0.389);
+  padding: 4px;
+  max-width: 550px;
+  margin: 10px auto;
+}
+
+.todoWrapper {
+  list-style: none;
+  margin-bottom: 12px;
+  font-size: 18px;
+  display: flex;
+  gap: 6px;
+  border-bottom: 1px solid rgb(197, 172, 172);
+}
